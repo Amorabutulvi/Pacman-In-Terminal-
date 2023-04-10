@@ -1,1 +1,1 @@
-# Pacman-In-Terminal-
+# Pacman-In-Terminal- Collecting Points at the Terminal
